@@ -1,4 +1,6 @@
 # Capacitor UDP
+Updated to work with Capacitor 4.0
+
 UDP Plugin for Capacitor inspired from cordova-plugin-chrome-apps-sockets-udp!
 Support both IPv6 and IPv4, multicast and broadcast!
 
