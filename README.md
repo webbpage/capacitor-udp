@@ -28,7 +28,7 @@ Isn't it amazing!
 ## Install
 
 ```bash
-$ npm install capacitor-udp
+$ npm install https://github.com/webbpage/capacitor-udp
 ```
 
 For android development, don't forget to add the plugin class in the MainActivity!
