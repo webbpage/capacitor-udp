@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-udp",
-  "version": "0.2.0",
+  "name": "capacitor-webb-udp",
+  "version": "0.4.0",
   "description": "udp plugin",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -13,7 +13,7 @@
   "author": "Zhongkai Chen",
   "license": "MIT",
   "dependencies": {
-    "@capacitor/core": "^1.5.1"
+    "@capacitor/core": "^4.0.1"
   },
   "devDependencies": {
     "@capacitor/android": "^1.5.1",
@@ -45,9 +45,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/unitree-czk/capacitor-udp"
+    "url": "https://github.com/webbpage/capacitor-udp"
   },
   "bugs": {
-    "url": "https://github.com/unitree-czk/capacitor-udp/issues"
+    "url": "https://github.com/webbpage/capacitor-udp/issues"
   }
 }
